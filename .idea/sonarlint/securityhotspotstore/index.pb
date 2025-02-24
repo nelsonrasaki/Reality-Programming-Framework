@@ -13,3 +13,5 @@ W
 'contracts/probability-manipulation.clar,a/4/a427fbd3b40f60de4911c86162f8a76f76e70790
 V
 &tests/probability-manipulation.test.ts,3/3/33f94d712fed8bbb1a5fd040fff96749a73b756c
+Z
+*contracts/retroactive-reality-editing.clar,f/1/f19e0981e64ce33be4edab6c8ca4abff1d37f20d
