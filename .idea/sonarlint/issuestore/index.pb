@@ -11,3 +11,5 @@ _
 .tests/causal-relationship-redefinition.test.ts,2/3/23e0ce5c81b73e99e7562aad51ac39df7cf28e71
 W
 'contracts/probability-manipulation.clar,a/4/a427fbd3b40f60de4911c86162f8a76f76e70790
+V
+&tests/probability-manipulation.test.ts,3/3/33f94d712fed8bbb1a5fd040fff96749a73b756c
