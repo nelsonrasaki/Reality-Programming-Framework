@@ -1,3 +1,5 @@
 
 9
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+\
+,contracts/universal-constant-adjustment.clar,e/0/e074f61b78fd4a5aa935ac3f25a86d6c497538a9
