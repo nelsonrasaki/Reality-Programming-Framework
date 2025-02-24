@@ -10,6 +10,11 @@ path = 'contracts/causal-relationship-redefinition.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.probability-manipulation]
+path = 'contracts/probability-manipulation.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.universal-constant-adjustment]
 path = 'contracts/universal-constant-adjustment.clar'
 clarity_version = 2
