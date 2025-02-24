@@ -1,3 +1,19 @@
 
 9
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+\
+,contracts/universal-constant-adjustment.clar,e/0/e074f61b78fd4a5aa935ac3f25a86d6c497538a9
+[
++tests/universal-constant-adjustment.test.ts,1/f/1f0642edf8e0c5939521a949febfe184cf8c1aff
+_
+/contracts/causal-relationship-redefinition.clar,0/f/0fe3ac4772f6e5fa02c609d439de55cf8bdc1716
+^
+.tests/causal-relationship-redefinition.test.ts,2/3/23e0ce5c81b73e99e7562aad51ac39df7cf28e71
+W
+'contracts/probability-manipulation.clar,a/4/a427fbd3b40f60de4911c86162f8a76f76e70790
+V
+&tests/probability-manipulation.test.ts,3/3/33f94d712fed8bbb1a5fd040fff96749a73b756c
+Z
+*contracts/retroactive-reality-editing.clar,f/1/f19e0981e64ce33be4edab6c8ca4abff1d37f20d
+Y
+)tests/retroactive-reality-editing.test.ts,6/1/614985c4bae52370a1a3884fe4c0e923d0801033
