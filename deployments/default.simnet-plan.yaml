@@ -60,6 +60,11 @@ plan:
             path: contracts/probability-manipulation.clar
             clarity-version: 2
         - emulated-contract-publish:
+            contract-name: retroactive-reality-editing
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/retroactive-reality-editing.clar
+            clarity-version: 2
+        - emulated-contract-publish:
             contract-name: universal-constant-adjustment
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/universal-constant-adjustment.clar
